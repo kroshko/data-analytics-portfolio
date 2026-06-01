@@ -1,4 +1,6 @@
 # Анализ конверсии интернет-магазина: влияние акционных дней
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kroshko/data-analytics-portfolio/blob/main/projects/02_sales_analysis/02_sales_analysis.ipynb)
+
 
 ## Задача
 
