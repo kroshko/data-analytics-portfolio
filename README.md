@@ -11,7 +11,7 @@
 |---|--------|--------|------|
 | 01 | [A/B тест: влияние email-рассылки на конверсию и ARPU](projects/01_ab_test_email/) | Расчёт выборки, z-тест, t-тест | Python, scipy, statsmodels, matplotlib |
 | 02 | [Анализ продаж: акционные дни и конверсия](projects/02_sales_analysis/) | Агрегация, фильтрация выбросов, t-тест, merge датафреймов | Python, pandas, scipy, seaborn |
-| 03 | [Прогнозирование выбора кафедры (диплом)](https://github.com/[ВАШ_ЛОГИН]/itm-department-prediction) | Многоклассовая классификация, 6 моделей, кросс-валидация | Python, sklearn, imbalanced-learn |
+| 03 | [Прогнозирование выбора кафедры (диплом)](https://github.com/kroshko/diplom-department-classifier) | Многоклассовая классификация, 6 моделей, кросс-валидация | Python, sklearn, imbalanced-learn |
 
 ---
 
@@ -21,18 +21,9 @@
 **SQL** — JOIN, подзапросы, агрегации, оконные функции  
 **Статистика** — A/B тесты, t-тест, z-тест, расчёт выборки, p-value  
 **Визуализация** — matplotlib, seaborn, Power BI  
-
 ---
 
 ## Образование
 
 **ННГУ им. Лобачевского, ИТММ** — Прикладная математика и информатика, бакалавр, 2025
 
-Дополнительно: Академия аналитики Авито (SQL, Python, метрики), Meta Data Analyst Professional Certificate (в процессе)
-
----
-
-## Контакты
-
-📧 kroshko.rimma@yandex.ru  
-✈️ Telegram: @k_kroshko
