@@ -1,5 +1,5 @@
 # A/B тест: влияние email-рассылки на конверсию и ARPU
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kroshko/data-analytics-portfolio/projects/01_ab_test_email/01_ab_test_email.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kroshko/data-analytics-portfolio/blob/main/projects/01_ab_test_email/ab_test_email.ipynb)
 
 ## Задача
 
